@@ -1,3 +1,4 @@
+![logo](https://github.com/MafizurAlam000/MafizurAlam000/blob/main/githubBanner.png)
 <h1 align="center">Hi 👋, I'm Mafizur Alam</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
